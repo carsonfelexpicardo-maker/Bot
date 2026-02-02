@@ -111,8 +111,9 @@ def start(msg):
             callback_data=f"buy_{k}"
         ))
     welcome_text = (
-        "✨ Welcome to the Premium Video Store! ✨\n\n"
-        "What package would you like to buy today?"
+        "😈Welcome to the Premium Video Store! 🔥" 
+        "Preview group: https://t.me/+w_WHfbI9M1oyYmU0" 
+        "Which model would you like to see today? 👇🔥👇😈👇🥵?"
     )
     BOT.send_message(msg.chat.id, welcome_text, reply_markup=kb)
 
