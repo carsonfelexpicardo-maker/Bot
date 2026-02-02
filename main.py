@@ -43,26 +43,33 @@ db.commit()
 # PRODUCTS
 # =========================
 PRODUCTS = {
-    "bronze": {
-        "name": "🥉 BRONZE",
+    "Emily Johnson": {
+        "name": "🤤 Emily Johnson",
         "stars": 1500,
         "usd": "$32.99",
-        "link": "https://mega.nz/bronze",
-        "description": "401 photos + 20 videos"
+        "link": "https://mega.nz/folder/PBdQwCTZ#1TAr86RRtZQD59pTH91TXQ",
+        "description": "401 pics + 20 vids"
     },
-    "silver": {
-        "name": "🥈 SILVER",
+    "Madeline Hope": {
+        "name": "🍑 Madeline Hope",
+        "stars": 1000,
+        "usd": "$19,99",
+        "link": "https://mega.nz/folder/nQ0USC4J#-aeGDupNTy_vgQCgX4jZFg",
+        "description": "842 pics + 223 vids"
+    },
+    "Camila Heat": {
+        "name": "❤️ Camila Heat",
         "stars": 2500,
         "usd": "$51.99",
-        "link": "https://mega.nz/silver",
-        "description": "842 photos + 223 videos"
+        "link": "https://mega.nz/folder/D4BCXBIS#wiWYhWwiZQiRuyCS8fDu4A",
+        "description": "465 pics + 95 vids"
     },
-    "diamond": {
-        "name": "💎 DIAMOND",
+    "Sophia Miller": {
+        "name": "🍆 Sophia Miller",
         "stars": 5000,
         "usd": "$99.99",
-        "link": "https://mega.nz/diamond",
-        "description": "2706 photos + 981 videos"
+        "link": "https://mega.nz/folder/DF8CTJpa#8sHiABdYvYAX5xWzsAyRnw",
+        "description": "2706 pics + 981 vids"
     }
 }
 
