@@ -44,32 +44,74 @@ db.commit()
 # =========================
 PRODUCTS = {
     "Emily Johnson": {
-        "name": "🤤 Emily Johnson",
+        "name": "🤤 1-Emily Johnson",
         "stars": 1500,
         "usd": "$32.99",
         "link": "https://mega.nz/folder/PBdQwCTZ#1TAr86RRtZQD59pTH91TXQ",
         "description": "401 pics + 20 vids"
     },
     "Madeline Hope": {
-        "name": "🍑 Madeline Hope",
+        "name": "🍑 2-Madeline Hope",
         "stars": 1000,
         "usd": "$19,99",
         "link": "https://mega.nz/folder/nQ0USC4J#-aeGDupNTy_vgQCgX4jZFg",
         "description": "842 pics + 223 vids"
     },
     "Camila Heat": {
-        "name": "❤️ Camila Heat",
+        "name": "❤️ 3-Camila Heat",
         "stars": 2500,
         "usd": "$51.99",
         "link": "https://mega.nz/folder/D4BCXBIS#wiWYhWwiZQiRuyCS8fDu4A",
         "description": "465 pics + 95 vids"
     },
     "Sophia Miller": {
-        "name": "🍆 Sophia Miller",
+        "name": "🍆 4-Sophia Miller",
         "stars": 5000,
         "usd": "$99.99",
         "link": "https://mega.nz/folder/DF8CTJpa#8sHiABdYvYAX5xWzsAyRnw",
         "description": "2706 pics + 981 vids"
+    },
+    "Charlotte Anne": {
+        "name": "😘 5-Charlotte Anne",
+        "stars": 1200,
+        "usd": "$21.99",
+        "link": "https://mega.nz/folder/8VEinBQJ#UufqYsWmawheFAFr8VoZEA",
+        "description": "968 Pics + 69 vids"
+    },
+    "Amelia Anderson": {
+        "name": "🤤 6-Amelia Anderson",
+        "stars": 1300,
+        "usd": "$25.99",
+        "link": "https://mega.nz/folder/PthknRrL#43C9PpO3tciWV7eHRm8QPQ/folder/y4pBHRjY",
+        "description": "(266 Pics + 99 vids)"
+    },
+    "Victoria Louise": {
+        "name": "🍑  7-Victoria Louise",
+        "stars": 1300,
+        "usd": "$25.99",
+        "link": "https://mega.nz/folder/MU5wXaxZ#Zo2z7I1ETU9gicXVjDT0-w",
+        "description": "315 Pics + 66 vids"
+    },
+    "Isabella Brown": {
+        "name": "😈 8-Isabella Brown",
+        "stars": 750,
+        "usd": "$14.99",
+        "link": "https://mega.nz/folder/1JhRERrB#txuh676eLRyEK7Wtp4pVxA",
+        "description": "192 Pics + 42 vids + 15 films"
+    },
+    "Lucy Taylor": {
+        "name": "😍 9-Lucy Taylor",
+        "stars": 1600,
+        "usd": "$37.99",
+        "link": "https://mega.nz/folder/r3x3xSpI#XhpSreExw4FAn7oDuJEPHw/folder/LzoQ2aLS",
+        "description": "529 Pics + 168 vids"
+    },
+    "Sophia Miller": {
+        "name": "🍆 10-Olivia Thompson",
+        "stars": 1250,
+        "usd": "$24.99",
+        "link": "https://mega.nz/folder/PgZXlQYY#Eya2uNASJGhK4afXDIKlSQ",
+        "description": "1440 Pics + 278 vids"
     }
 }
 
