@@ -43,6 +43,7 @@ db.commit()
 # PRODUCTS
 # =========================
 PRODUCTS = {
+    
     "Isabella Brown": {
         "name": "😈 Isabella Brown",
         "stars": 750,
